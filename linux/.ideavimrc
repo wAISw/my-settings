@@ -1,0 +1,22 @@
+
+set clipboard=unnamedplus
+
+"Turn off any bells"
+set visualbell
+set noerrorbells
+
+
+"ignore case"
+set ic
+
+"show first search word"
+set incsearch
+
+"show search text"
+set hls
+
+"show number of row"
+set nu
+
+set nocul
+

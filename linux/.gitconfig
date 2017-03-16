@@ -1,0 +1,7 @@
+[user]
+	email = abdulov001@gmail.com
+	name = ais
+[core]
+	autocrlf = input
+[push]
+	default = simple
